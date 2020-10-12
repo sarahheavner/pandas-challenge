@@ -61,7 +61,7 @@
            - Calculate popularity of items 
                - Created new dataframe with only Item ID, Item Name, and Item Price columns
                - Group by Item ID and Item Name. Perform calculations to obtain purchase count, average item price, and total purchase value
-                   - Gvroupby Item ID and Item Name to calculate count of purchases per Item
+                   - Groupby Item ID and Item Name to calculate count of purchases per Item
                    - Groupby Item ID and Item Name to calculate average item price
                    - Total purchase value = purchase count * average item price
                - Created dataframe to display results
